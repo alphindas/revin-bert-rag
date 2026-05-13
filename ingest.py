@@ -1,12 +1,3 @@
-"""
-ingest.py — Layout-Aware PDF Ingestion Pipeline
-Revin Techno Solutions — BERT RAG System
-Author: Alphin Das
-
-This module handles the critical challenge of parsing a 2-column academic
-PDF correctly — maintaining reading order, extracting tables, and
-processing figures using Gemini Vision.
-"""
 
 import os
 import fitz  # PyMuPDF
