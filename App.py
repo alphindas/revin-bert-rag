@@ -1,8 +1,3 @@
-"""
-app.py — Streamlit UI for BERT RAG System
-Revin Techno Solutions Technical Assessment
-Author: Alphin Das
-"""
 
 import streamlit as st
 import os
