@@ -1,11 +1,3 @@
-"""
-retriever.py — High-Precision Retrieval & QA Engine
-Revin Techno Solutions — BERT RAG System
-Author: Alphin Das
-
-Stateless single-turn QA system optimized for complex
-multi-hop questions over academic research papers.
-"""
 
 import os
 from dotenv import load_dotenv
