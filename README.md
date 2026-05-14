@@ -9,8 +9,7 @@ figures, tables, and multi-hop questions.
 ---
 
 ## Demo Video
-🎥 [Watch Walkthrough Video](#) ← replace with your Loom/YouTube link
-
+🎥 [Watch Walkthrough Video](https://drive.google.com/file/d/1a21FSj7Tqcr85KXCaeBtFxuoqqHbOlXU/view?usp=sharing)
 ---
 
 ## Architecture
